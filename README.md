@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ashadullahalforhad](https://medium.com/@ashadullahalforhad)
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **React and React Native**
 
 - 📫 How to reach me **ashadullahalforhad@gmail.com**
 
