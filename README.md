@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **NodeJs**
   
 - 👨‍💻 All of my projects are available at 
-Project 01- [Expense Tracker](https://expense-tracker-ockibzv6i-forhads-projects-0b6e3c93.vercel.app/)
+Project 01- [Expense Tracker](https://expense-tracker-inky-two.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ashadullahalforhad](https://medium.com/@ashadullahalforhad)
 
