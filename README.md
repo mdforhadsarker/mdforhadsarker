@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdforhadsarker" alt="mdforhadsarker" /></a> </p>
 
 - 🔭 I’m currently working on **Khajna Project**
-- 
-- 🌱 I’m currently learning **React Native**
-- 
+  
+- 🌱 I’m currently learning **NodeJs**
+  
 - 👨‍💻 All of my projects are available at 
 Project 01- [Expense Tracker](https://expense-tracker-ockibzv6i-forhads-projects-0b6e3c93.vercel.app/)
 
