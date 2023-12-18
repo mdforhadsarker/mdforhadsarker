@@ -9,15 +9,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdforhadsarker" alt="mdforhadsarker" /></a> </p>
 
 - 🔭 I’m currently working on **Khajna Project**
+The Khajna Project is a Daraza project. Where I am implementing the frontend, we are using Next.js and React.js with TypeScript. For API calls, we are utilizing Redux Toolkit (RTK).I specifically handle the challenging aspects of this frontend, including tasks such as receiving, local selling, and local purchase calculations. Additionally, I manage the insertion and updating of API data.
   
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDB**
   
 - 👨‍💻 All of my projects are available at 
 Project 01- [Expense Tracker](https://expense-tracker-inky-two.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ashadullahalforhad](https://medium.com/@ashadullahalforhad)
 
-- 💬 Ask me about **React and React Native**
+- 💬 Ask me about **ReactJs, NextJs, MongoDB, NodeJs and ExpressJs**
 
 - 📫 How to reach me **ashadullahalforhad@gmail.com**
 
