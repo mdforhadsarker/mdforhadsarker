@@ -16,7 +16,7 @@ The Khajna Project is a Daraza project. Where I am implementing the frontend, we
 - 👨‍💻 All of my projects are available at 
 Project 01- [Expense Tracker](https://expense-tracker-inky-two.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@ashadullahalforhad](https://medium.com/@ashadullahalforhad)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ashadullahalforhad)
 
 - 💬 Ask me about **ReactJs, NextJs, MongoDB, NodeJs and ExpressJs**
 
