@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdforhadsarker" alt="mdforhadsarker" /></a> </p>
 
-- 🔭 I’m currently working on **Khajna Project**
+- 🔭 I’m currently working on [**Khajna Project**](https://www.loom.com/share/c3988c0a2e1443e9bd0164face113f3b)
 The Khajna Project is a Daraza project. Where I am implementing the frontend, we are using Next.js and React.js with TypeScript. For API calls, we are utilizing Redux Toolkit (RTK).I specifically handle the challenging aspects of this frontend, including tasks such as receiving, local selling, and local purchase calculations. Additionally, I manage the insertion and updating of API data.
   
 - 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDB**
