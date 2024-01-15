@@ -15,6 +15,7 @@ The Khajna Project is a Daraza project. Where I am implementing the frontend, we
   
 - 👨‍💻 All of my projects are available at 
 Project 01- [Expense Tracker](https://expense-tracker-inky-two.vercel.app/)
+Project 02- [Ecommerce Website ](https://inleadsitassignment.vercel.app/products)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ashadullahalforhad)
 
