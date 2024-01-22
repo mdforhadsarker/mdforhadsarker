@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdforhadsarker" alt="mdforhadsarker" /></a> </p>
 
-- 🔭 I’m currently working on **Khajna Project**
-<br target="_blank" >[Part 01](https://www.loom.com/share/c3988c0a2e1443e9bd0164face113f3b)</br>
-<br target="_blank" >[Part 02](https://www.loom.com/share/0f1dba4a39bc431891621365caa581b4)</br>
+- 🔭 I’m currently working on **Khajna Project** at Z IT Solution Ltd. , Uttata, Dhaka </br>
+Video Presentation about the Project [Part 01](https://www.loom.com/share/c3988c0a2e1443e9bd0164face113f3b)</br>
+Video Presentation about the Project [Part 02](https://www.loom.com/share/0f1dba4a39bc431891621365caa581b4)</br>
 The Khajna Project is a Daraza project. Where I am implementing the frontend, we are using Next.js and React.js with TypeScript. For API calls, we are utilizing Redux Toolkit (RTK).I specifically handle the challenging aspects of this frontend, including tasks such as receiving, local selling, and local purchase calculations. Additionally, I manage the insertion and updating of API data.
   
 - 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDB**
   
 - 👨‍💻 All of my projects are available at 
 
-Project 01- I have used- NextJs, ReactJs, React Hook, Redux(RTK), Styled-Components and Antd(Only for loading) . I have implemented the RTK query for calling API and I used React Hook for Client Side Filtering .  And many more....<br>[Ecommerce Website ](https://inleadsitassignment.vercel.app/products)</br>
-Project 02-<br> [Expense Tracker](https://expense-tracker-inky-two.vercel.app/)</br>
+Project 01- I have used- NextJs, ReactJs, React Hook, Redux(RTK), Styled-Components and Antd(Only for loading) . I have implemented the RTK query for calling API and I used React Hook for Client Side Filtering .Functionalities - Price Sorting, Total Products, Grid and Col View, Searching, Category Filter , Company Type Filter, Color Type Filter , Price Range, shippiong and Clear Filters [Ecommerce Website ](https://inleadsitassignment.vercel.app/products)</br>
+Project 02- [Expense Tracker](https://expense-tracker-inky-two.vercel.app/)</br>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ashadullahalforhad)
 
