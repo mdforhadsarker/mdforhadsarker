@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Forhad</h1>
-<h3 align="center">A passionate Frontend React/ React Native Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend React Developer from Bangladesh</h3>
 
 
 <p style="text-align: center;">I have graduated from the International Islamic University Malaysia with a Bachelor's degree in Computer Science.</p>
