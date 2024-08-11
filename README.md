@@ -10,8 +10,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdforhadsarker&label=Profile%20views&color=0e75b6&style=flat" alt="mdforhadsarker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdforhadsarker" alt="mdforhadsarker" /></a> </p>
+- 🔭 I'm currently working on **TestDriveLive** at FreeCast (Remote). , Florida , USA </br>
+I would like to show my work upon request. 
 
-- 🔭 I’m currently working on **Khajna Project** at Z IT Solution Ltd. , Uttata, Dhaka </br>
+- 🔭 I worked on **Khajna Project** at Z IT Solution Ltd. , Uttata, Dhaka </br>
 **Video Presentation about the Project** [VAT Project](https://www.youtube.com/watch?v=CRFUAMvk8aI)</br>
 The Khajna Project is a Daraza project. Where I am implementing the frontend, we are using Next.js and React.js with TypeScript. For API calls, we are utilizing Redux Toolkit (RTK).I specifically handle the challenging aspects of this frontend, including tasks such as receiving, local selling, and local purchase calculations. Additionally, I manage the insertion and updating of API data.
   
