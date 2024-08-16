@@ -1,22 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mohammad Forhad</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Forhad Sarkar</h1>
 <h3 align="center">A passionate Frontend React Developer from Bangladesh</h3>
 
 
-<p style="text-align: center;">I have graduated from the International Islamic University Malaysia with a Bachelor's degree in Computer Science.</p>
+<p>As a frontend developer with 3 years of experience, I specialize in building robust and dynamic user interfaces using JavaScript, React.js, Next.js, and Tailwind CSS. I have a deep understanding of state management with Redux Toolkit and TanStack Query, ensuring efficient data handling in complex applications. My expertise extends to using UI libraries like ShadCN and Ant Design (antd), enhancing the visual appeal and functionality of projects.
+
+I am proficient in leveraging tools such as Jira, Git, WSL, and Ubuntu for streamlined development workflows, and have experience working with Web3 and React Native, allowing me to contribute to a wide range of projects. Additionally, my background in UI/UX design, using Figma, Adobe XD, Illustrator, Photoshop, and Lottie, enables me to create intuitive and visually engaging user experiences.
+
+Throughout my career, I have successfully delivered projects that balance performance, accessibility, and aesthetics, consistently meeting client expectations. My commitment to staying current with industry trends ensures that I bring innovative solutions to every project I undertake.</p>
 <img alt="Coding" width="100%" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdforhadsarker&label=Profile%20views&color=0e75b6&style=flat" alt="mdforhadsarker" /> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=mdforhadsarker" alt="mdforhadsarker" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdforhadsarker" alt="mdforhadsarker" /></a> </p>
-- 🔭 I'm currently working on **TestDriveLive** at FreeCast (Remote), Florida , USA </br>
-I would like to show my work upon request. Here is the live URL - [TestDriveLive](https://www.testdrivelive.com/login)
 
-- 🔭 I worked on **Test Drive Live** at FreeCast Inc. , Orlando, USA (Remote) </br>
-**Video Presentation about the Project** [E-commerce with admin dashboard](https://www.youtube.com/watch?v=n1XhWxD_4UE)</br>
-The Khajna Project is a Daraza project. In this project, I built an ERP software application that allows a company to calculate its VAT. The application was developed using React.js, Next.js, Ant Design (antd), and Redux for the frontend, with a Java-based backend and MySQL for the database.
+<h2>Real World Job Experiences<h2>
+<h3>E-commerce with Admin Portal</h3>
+My Role: Software Developer</br>
+Office : FreeCast , Orlando, USA (Remote)</br>
+Project description: In this project, I developed a e-commerce site with features like a sidebar for filtering, pagination, price filtering, and product search. I implemented secure login authentication using TanStack Query and designed the admin dashboard. My work included creating the listing and details pages in the admin portal, where users can add, view, and update product data in real-time. The portal supports three roles—admin, client, and customer—each with tailored permissions, ensuring a user-friendly and efficient experience.
+Skills and deliverables:
+  <ul>
+    <li>
+      JavaScript
+    </li>
+    <li>
+     React
+    </li>
+     <li>
+     Tanstack Query
+    </li>
+     <li>
+     Next.js
+    </li>
+    <li>
+      Tailwind CSS
+    </li>
+      <li>
+      Shadcn UI Library
+    </li>
+  </ul>
 
+##Live Link
+[Demo Site](https://www-develop.testdrivelive.com/)</br>
+
+##Explaination
+[E-commerce with admin dashboard](https://www.youtube.com/watch?v=n1XhWxD_4UE)</br>
+<img src="https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/58e4e1c748d7e6799c1b81f661987043?response-content-disposition=inline;+filename=%22image_original%22;+filename*=utf-8%27%27image_original&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOv//////////wEaCXVzLXdlc3QtMiJGMEQCIDuoieTsvhH/WzgiCL1E6RrI0xZbtB0M6/0NLBZoZhLHAiB3gHSWQ1A80d8Yq3PNe/WEviXdQBrxdAqSCtjJhVCkcirWBAjk//////////8BEAAaDDczOTkzOTE3MzgxOSIMfiBPdr5jHbUiGhEbKqoENg/7XOvuEuLxTlqs5Bzxurc2j1ruqdCqAEgvP3RiO19k2ZJgkbEZDguwsQfAR3MrQuzzUI954rnFs2oWq2Mlit2AZvzvFcz6PZqWbz0wImuRFmW3c/vTo0KkFrlwnSRokYKvYJD3PyOx17YzOwXTVdXrXtuSnTKHjq4sD9nDSMfKufzgNRcVeVD5jAx4LC9F2SKX%2B/u/AxVV7lSG9mAMvpUeuDheHQXmRnTj44Bg7DeSGDZa5KMhSrMotLwygshH/wYIkclagA%2Bwr3tRyGza1BetLhqaOK0/ny4eTbKlSnAvHwaozX1%2BRklnH%2B5MJKeuRG4NcKxiagzyFfuUtiaVVH9QGoKD0zkvSDdsJYZ2X60%2Bv5gpXlH2ol%2B4jcrcHd/tZlsmY7Jz6OozZrpUeu6%2BZypEks4MGTNyPTm7uUk/VvqpzxzVXtCQ7Z6FD9wN6YQef72bfPDt8nby3tBQfbgCHKCwuwBoAr1AhLo1CtabQKHWFaoP7AQ%2BSe1gzntk8UxBz80ZY8Rl9glCusZtkdxz6EZCNNroNzzSaa3lw6CeXI4jTgr3/U48LgWNeIjPR71oyuqw%2Bi6UHkYeacoeW4Z/7Q9w1o956kpIk4bKYNZeLPiwrXzbNGzBzqvDPy3bhW6VHgXGmbSYI0aXzxYmdEpOsblSYWPrMrqY5l4S2o4GPSlZpicg3m8ASGNsqaacR4yUb29BOXEXRsdZvwn7f0q48s2BYzujXhrNrycwo/H6tQY6qAFsnAhC%2BRfqPUOntmr2EOkdUDyBweoBBn3xlYvn900cOZIFmDwcDaeOqZnShrmJ3XNAB1LxRQ3Wvnb4cqe0I65iA%2BdpfnQ01kd4viYnf06EvgjzoqLqLuqF0K/FLrLET1rak7EqmzG1inarjGErcS%2BLn4JHC60Sk3Xpwdf7znrm1P8nBGo3pybw5lC4rvjGA8wR%2BMsZeBMm1LfBnNhzmaL/M7npZp6/NrU=&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240816T031016Z&X-Amz-SignedHeaders=host&X-Amz-Expires=899&X-Amz-Credential=ASIA2YR6PYW5Q7WKIBPP/20240816/us-west-2/s3/aws4_request&X-Amz-Signature=c680cbda183d8654290b4958f75455433ff25c0b195076ad9dc48a41965a3f73" alt="image1" width="500" height="300"/>
+<img src="https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/74742e1022b9e3ed408f853593c6a522?response-content-disposition=inline;+filename=%22image_original%22;+filename*=utf-8%27%27image_original&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOv//////////wEaCXVzLXdlc3QtMiJHMEUCICVhSxd8ngybD9/kV44k1w8RcUpYts6MqICrL7pCFg2XAiEAzstslWF6S2djxd4dEVGr7PYwXW0RJjq2HOJxJLpUCeAq1gQI5P//////////ARAAGgw3Mzk5MzkxNzM4MTkiDHkgbfmpg8cCa35JmCqqBAzTFCeilIPlfUul9den8JO3m9970iEhzUuAVm%2BoiyxP4qsN6XXhll%2BKWHWzGOQIi1sq6%2B12ZNgZiDfu4/LT2ynWlzDD0wZER13pcsuUjph2dZeHgBePwPm4f6ePbGEy4fiII5ynMjX3uiVMF%2BC3JDfnmChymQPBULt9xs8PGf0Cjqnp5LCCdyNU%2B89cCJaxFZgIZUGhwW1HhAT851sAPFlS3i4gC3CHcLeeZjzZuUtQ/1qeSWj6GtQzQ9qV7kOfiItTZmjzaY9OdHiye0pXNBBp5/d2vNaEhGAfV%2BOpURdcKsSld5HwkuPUUN/X3BDIIJaBVW6TvkBM1H2IBE/%2BOwhjVnCg57zfEUTPYQbY689UI4o8m%2Bn/wpLGt3ELTWl6%2B492Qg0kYoABXxxz%2BOWWhuNnsELwEvhdkcgbdgzDJ00ZZa0cqmjVClF0m17GRwFzJGgFMtV45D%2BLU6WyKtyLl/E6Piflk3PHHxWxdVBb5e%2BjpztlU3gK2L33BwlE%2BLr42DMGdx0jQji8vF50iYZ8Rz1Q8A1pLd/CFAigKcX7pRAb/3jneBcsFMsl1rFlFX%2BJ9RmQPdOC9OWRyhtjWMN/1N31QTEYUUuRuScLRChpnici/cIrhDbB6gyz0ugcsqY2fARBX0kvwoDJinfuL5IsQvwuLUmsLW2jQ5gTdmYU6Ux4OA3KlyXblmBb3/RJhexE1iBEEo513lOtAYZf1Iffrb16VlskW04VXOIUMPT2%2BrUGOqcBew3oiskAQqYir%2B9CkYzG3iA6%2BqMnNVqypJLtgMJgphSMtIKI%2BrKX5/ERkjM85O/d5HWkwP/Se7CCORPF59uE/iZ/HyNgrrjO2IWtr4KqtxDPDBpclWmjpXlCj0vrGgK4vRWszbh9ylYuz9AdVwkusRSdwoiCDjwv0k%2BtBb3QoGF0U8Gh3uo2QBnlt0ge%2B7kGSgMMOayUYeXf6hOGpV050bWyYl8qWEQ=&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240816T031106Z&X-Amz-SignedHeaders=host&X-Amz-Expires=899&X-Amz-Credential=ASIA2YR6PYW54DJJCO2R/20240816/us-west-2/s3/aws4_request&X-Amz-Signature=ea0cc1b4bb63949733d4cc8445fb1af1da69d0f7b2d3126d6d3d9a2cd8fdbb64" alt="image2" width="500" height="300"/>
+</br>
 <h3>VAT ERP Software</h3>
 My Role: Frontend Application Developer</br>
 Office : Z IT Solution Ltd. , Uttata, Dhaka</br>
